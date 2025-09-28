@@ -1,11 +1,11 @@
-# publikasi-ilmiah
+# HERIYANTO CHANRA
 Pendidikan
 
 <!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8">
-  <title>Repositori Ilmiah Saya</title>
+  <title>Publikasi Ilmiah</title>
 </head>
 <body>
   <h1>Kumpulan Artikel Ilmiah</h1>
